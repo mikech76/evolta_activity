@@ -1,5 +1,7 @@
 <?php
 
+use App\Services\UrlLogService;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 /*
